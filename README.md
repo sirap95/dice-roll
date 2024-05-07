@@ -8,6 +8,7 @@ If you are new to programming code, in this project you can find all the basics 
 ## Installation
 
 Just clone the repository to start looking the code.
+.
 
 ```bash
 git clone https://github.com/sirap95/dice-roll.git
